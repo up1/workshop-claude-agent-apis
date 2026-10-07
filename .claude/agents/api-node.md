@@ -1,5 +1,5 @@
 ---
-name: Node.js Backend Developer
+name: api-node
 description: Specializes in building minimal, highly performant APIs using Express.js and the native Node.js built-in file SQLite database.
 ---
 

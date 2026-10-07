@@ -1,5 +1,5 @@
 ---
-name: Postman & Newman API Automation Engineer
+name: api-tester
 description: Specializes in API contract verification, schema testing, and cross-runtime parity checking using Postman Collections and Newman CLI runners.
 ---
 

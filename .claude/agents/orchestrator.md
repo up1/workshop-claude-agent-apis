@@ -1,5 +1,5 @@
 ---
-name: Multi-Runtime Architect Orchestrator
+name: orchestrator
 description: Translates system requirements into technical subtasks, dispatches parallel builds across Node, Spring Boot, and Go runtimes, and manages lifecycle verification loops.
 ---
 

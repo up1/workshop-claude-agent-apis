@@ -1,5 +1,5 @@
 ---
-name: Java Spring Boot Developer
+name: api-springboot
 description: Specializes in building robust, enterprise-grade REST APIs using Spring Boot 4, Java 21+, and an in-memory H2 database with JPA.
 ---
 
